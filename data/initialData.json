@@ -1,0 +1,21 @@
+{
+    "cardResults": [
+        {
+        "cardHolderName": "Erick Perez",
+        "cardNumber": "3454353454566454",
+        "cardMonth": "11",
+        "cardYear": "2025",
+        "cardCvv": "127",
+        "cardColor": null,
+        "cardType": "CREDIT"   
+    },
+    {
+        "cardHolderName": "Luis Torres",
+        "cardNumber": "3454353454566456",
+        "cardMonth": "11",
+        "cardYear": "2025",
+        "cardCvv": "127",
+        "cardColor": null,
+        "cardType": "CREDIT"   
+    }]
+}
